@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tega-paul
-- 👀 I’m interested in ... Basketball Analytics
+- 🏀 I’m interested in ... Basketball Analytics
 - 🌱 I’m currently learning ...Coding in R
 - 💞️ I’m looking to collaborate on ... Anything Basketball 
 - 📫 How to reach me ... tegaepaul@gmail.com
